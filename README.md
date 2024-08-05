@@ -38,5 +38,6 @@ Each feature is implementing its own endpoint, also you can watch the movie trai
 	•	Option to watch the trailer (via YouTube within the app)
 
 ### Demo
+https://github.com/user-attachments/assets/bad58a2c-ecb9-4f5f-8e0a-a730e61859e0
 
 
