@@ -1,4 +1,4 @@
-**Netflix app is a movies app containing multiple features like:**
+** IOS Netflix app is a movies app containing multiple features like:**
 
   Home
   Coming Soon
